@@ -6,14 +6,6 @@ A sleek, lightweight desktop solution for small pharmacy operations — built wi
 
 ---
 
-Screenshot
----
-> Add a screenshot to `assets/screenshot.png` and replace the path below.
-
-![App screenshot](assets/screenshot.png)
-
----
-
 Why you'll ❤️ this
 - Fast desktop UI for daily pharmacy tasks
 - Simple data model that maps to SQL Server
